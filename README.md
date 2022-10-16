@@ -1,5 +1,5 @@
 # MySuru-Bootstrap-website
-A Website on Mysuru, a Splendid city. Created using HTML, CSS Bootstrap. 
+A Website on Mysuru☀️, a Splendid city. Created using HTML, CSS Bootstrap.
 
 Check it Out😀
 
